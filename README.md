@@ -1,6 +1,12 @@
-# Wm-site
+# Woolen Men - Official Site
+##### April 2016
+##### By Lawton Browning, Jeff Seymour, David Diehr, Schuyler Klaassen
 
-This is the public site for the Woolen Men an independent band based out of portland, ore. The site uses firebase and ember JS to inform the public about upcoming shows, discography, songs and art related to the band.
+## Description
+##### This is the public site for the Woolen Men, an independent band based out of Portland, OR. The site uses Firebase and Ember JS to inform the public about upcoming shows, discography, songs and art related to the band.
+
+## Technologies Used
+Ember 2, JavaScript, Moment.js, Bower, HTML, SCSS, Firebase
 
 ## Prerequisites
 
@@ -14,7 +20,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
@@ -35,9 +41,5 @@ You will need the following things properly installed on your computer.
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### built by
-
-Lawton Browning
-David Diehr
-Jeff Seymour
-Schuyler Klaassen
+## License
+Copyright (c) 2016 Lawton Browning, Jeff Seymour, David Diehr, Schuyler Klaassen
